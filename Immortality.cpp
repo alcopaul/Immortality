@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	int numberofwakingup = 13140;
+	int numberofwakingup = 13177;
 	int h = 1;
 	for (int i = numberofwakingup; i >= 0; i--)
 	{
