@@ -20,3 +20,5 @@ int main()
 	}
 	_getch();
 }
+
+// February 21, 1981 - March 20, 2017
